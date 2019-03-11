@@ -1,4 +1,4 @@
-# 捷记 umi+mobx
+# umi+mobx
 
 # 1.安装运行
 
@@ -9,7 +9,7 @@ $ yarn start / npm start
 ###### 2部署发布
 
 $ 执行 umi build，
-$ 构建产物默认生成到./dist 下，然后通过 tree 命令查看，(windows 用户可忽略此步）
+$ 构建产物默认生成到 ./dist 下，然后通过 tree 命令查看，(windows 用户可忽略此步）
 
 ###### 1.本地验证
 
@@ -50,5 +50,5 @@ yarn --version
 ###### 3.2创建脚手架
   yarn create umi
   按空格选择需要安装的
-  antd,dva,hard source
+  antd,hard source
 
