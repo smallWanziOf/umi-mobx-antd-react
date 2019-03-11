@@ -1,4 +1,4 @@
-# 捷记 umi+dva
+# 捷记 umi+mobx
 
 # 1.安装运行
 
