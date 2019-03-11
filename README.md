@@ -9,7 +9,7 @@ $ yarn start / npm start
 ###### 2部署发布
 
 $ 执行 umi build，
-$ 构建产物默认生成到 ./dist 下，然后通过 tree 命令查看，(windows 用户可忽略此步）
+$ 构建产物默认生成到./dist 下，然后通过 tree 命令查看，(windows 用户可忽略此步）
 
 ###### 1.本地验证
 
